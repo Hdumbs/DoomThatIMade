@@ -9,3 +9,14 @@ Features:
 - DOM Traversal & Manipulation – Easily find and modify HTML elements.
 - Lightweight & Beginner-Friendly – A simple and clean code structure for learning and experimentation.
 Feel free to explore, contribute, or use this as a foundation for your own interactive web projects! 🚀
+
+
+
+
+
+
+
+
+
+
+please guys dont use it, its for my school :3
